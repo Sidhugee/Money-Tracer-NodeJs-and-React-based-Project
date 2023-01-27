@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Open+Sans:wght@300&display=swap");
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif !important;
+}
+body,
+html {
+  overflow-x: hidden;
+}
+.primary {
+  background-color: white;
+  padding: 5px 20px;
+  color: black !important;
+  border: none;
+  border-radius: 3px;
+}
+h6 {
+  font-weight: 700;
+  font-size: 20px;
+  color: rgb(103, 101, 101);
+}
+h1 {
+  font-weight: 700;
+  font-size: 30px;
+}
+.secondary {
+  background-color: white;
+  padding: 5px 20px;
+  color: black !important;
+  border: none;
+  border-radius: 3px;
+}
